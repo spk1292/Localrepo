@@ -1,0 +1,11 @@
+4 sub-directories:
+1. Hooks/ : examples scripts
+2. info/ : exclude file for ignored patterns.
+3. objects/ : all "objects"
+4. refs/ : ponters to commit objects.
+
+4 files:
+1. HEAD : current branch.
+2. config : configuration options.
+3. description.
+4. index: staging area.
